@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    padding: 15px;
+    /* background: linear-gradient(150deg, #fa8128 40%, #212121); */
+    font-family: "Poppins", sans-serif;
+}
+#encryptionTab{
+    font-size: 1.2rem;
+}
+#decryptionTab{
+    font-size: 1.2rem;
+}
+.navbar-brand {
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+.content{
+    padding-top: 100px;
+}
+.content h1{
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.content p{
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 1.4px;
+}
+
+.gradient-text {
+    background: linear-gradient(131deg, #ff7f00,#ffb429, #ffb52b, #ffcb3d );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-form{
+    font-weight: 600;
+    background-color: #ffae19;
+}
+.nav-item {
+    margin:0;
+    flex-grow: 1; 
+}
+
+.nav-link {
+    /* padding: 0.5rem 1rem; */
+    background-color: transparent;
+    color: #000; /* Default color */
+}
+
+.navbar-nav {
+    /* position: relative; */
+    display: flex;
+    justify-content: center; 
+    width: 100%; 
+    margin: 0 auto; /* Center the navbar */
+}
+
+#indicator {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50%; /* Adjust the width of the indicator */
+    height: 2px; /* Adjust the height of the indicator */
+    background-color: #ffae19; /* Indicator color */
+    transition: transform 0.5s ease;
+    color: #fff;
+}
+
+.navbar-nav .encrypt-tab {
+    transition: background-color 0.8s ease;
+}
+.navbar-nav .decrypt-tab {
+    transition: background-color 0.8s ease;
+}
+.encrypt-tab.active {
+    background-color: #ffae19;
+    color: #fff;
+}
+.decrypt-tab.active {
+    background-color: #ffae19;
+    color: #fff;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 25px;
+}
+
+label{
+    font-size: 1.1rem;
+}
+input {
+    margin: 12px 0 12px 0; 
+    padding: 8px; 
+    border-radius: 4px; 
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box; 
+}
+
+button {
+    padding: 10px 25px;
+    border-radius: 4px;
+    border: none; /* Remove border for a cleaner look */
+    background-color: black;
+    color: white;
+    cursor: pointer; /* Add pointer cursor to indicate button is clickable */
+}
+
+button:hover {
+    background: #444; /* Darken button color on hover */
+}
+
+table {
+    width: 50vw;
+}
+
+th, td {
+    padding: 12px; /* Increase padding for better cell spacing */
+    text-align: left; /* Align text to the left for better readability */
+    border: 1px solid #ddd; /* Add light border for table cells */
+    font-size: 1.1rem;
+    letter-spacing: 1.01px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+}
+
+section h3 {
+    color: #333; /* Darken section heading color for better contrast */
+    margin-left: 15px; /* Adjust margin for better alignment */
+}
+
+ol li {
+    color: #666; /* Darken list item color for better readability */
+     /* Add margin between list items for better spacing */
+}
