@@ -36,13 +36,13 @@ git clone https://github.com/shreekrishnalamichhane/image-encryption---decryptio
 
 You can `fork` this project.
 
-[![fork this repo](https://img.shields.io/github/forks/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS/fork)
+[![fork this repo](https://img.shields.io/github/forks/ZunainAliAzam/PixCrypt---Image-Security-Suite?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/ZunainAliAzam/PixCrypt---Image-Security-Suite/fork)
 
 To run the project, visit included `index.html` in browser.
 
 ## Demo
 
-Self Hosted Demo: [Click here](https://projects.shreekrishnalamichhane.com.np/image-encryption---decryption-using-client-side-JS/)
+Self Hosted Demo: [Click here](https://pix-crypt.vercel.app/)
 
 ## Tests
 
@@ -50,9 +50,8 @@ There are no test avaiable for this project.
 
 ## Author
 
-**Author Name** &nbsp; : &nbsp; Shree Krishna Lamichhane <br>
-**Author URI** &nbsp; &nbsp; &nbsp; : &nbsp; [shreekrishnalamichhane.com.np](https://shreekrishnalamichhane.com.np) <br>
-**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [shreekrishnalamichhane](https://github.com/shreekrishnalamichhane)
+**Author Name** &nbsp; : &nbsp; Zunain Ali Azam <br>
+**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [ZunainAliAzam](https://github.com/ZunainAliAzam)
 
 ## Contributors
 
@@ -62,14 +61,6 @@ There are no contributors on this project right now. You can be one.
 
 Anyone can contribute me on this project. Check the [installation](#installation) section to start contributing to this project.
 
-## License
-
-This project is licensed under **MIT License**.
-
-[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 ---
 
 Thank you for visiting. Make sure to try it out. If you love this project give it a star.
-
-[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS)
