@@ -1,4 +1,4 @@
-<h2 align="center" style="border: 0;">Image Encryption & Decryption With ClientSide Javascript.</h2>
+<h2 align="center" style="border: 0;">PixCrypt - Image Security Suite</h2>
 <br>
 A simple implementation of image encryption/decryption using AES Algorithm in client side javascript.
 
